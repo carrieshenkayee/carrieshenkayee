@@ -1,7 +1,7 @@
 ### 
 🚀 ABOUT ME 🚀
 
-👽 Hi! I am...
+👽 Hi there! I am...
 
 An artist at heart, a Developer in mind: I bring a unique blend of skillsets from the best of both worlds. With my artistic background, I excel in developing and implementing effective and visually compelling software solutions that meet business needs and move users into action.
 
@@ -17,7 +17,7 @@ Analytical and Adaptable: Driven by the potential of art and technology coming t
 
 ✨ LITTLE ACHIEVEMENT ✨
 
- 🌊🛥🌊🛥🌊 
+🌊🌊🌊🛥 
 𝘽𝙤𝙖𝙩 𝙏𝙧𝙞𝙥 - an energiser app built to combat mental and creativity burnout in coding bootcamps
 👉 https://artology.netlify.app/
 
