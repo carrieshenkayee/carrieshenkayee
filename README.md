@@ -11,7 +11,7 @@ Hi there! I am an artist at heart, a developer in mind. Currently on a coding bo
 * ✉️  You can contact me at [carrieshen.uk@gmail.com](mailto:carrieshen.uk@gmail.com)
 * 🧠  I'm learning database and architecture
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly a writer, ask me for a short story!
+* ⚡  I'm secretly a writer too, ask me for a random short story!
 
 ### Skills
 
