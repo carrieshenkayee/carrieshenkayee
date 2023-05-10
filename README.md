@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Hi there! I am an artist at heart, a developer in mind. I will bring a unique blend of skillsets from the best of both worlds.
+Hi there! I am an artist at heart, a developer in mind. Currently on a coding bootcamp at the School of Code. Previously worked in contemporary art galleries for 5 years. Trust me, I will bring a unique blend of skillsets from the best of both worlds.
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [𝘽𝙤𝙖𝙩 𝙏𝙧𝙞𝙥 - an energiser app](http://artology.netlify.app/)
