@@ -1,40 +1,49 @@
-### 
-🚀 ABOUT ME 🚀
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carrie Shen
+===================================================================================================================================
 
-👽 Hi there! I am...
+Software Developer
+------------------
 
-*An artist at heart, a Developer in mind*: I bring a unique blend of skillsets from the best of both worlds. With my artistic background, I excel in developing and implementing effective and visually compelling software solutions that meet business needs and move users into action.
+Hi there! I am an artist at heart, a developer in mind. I will bring a unique blend of skillsets from the best of both worlds.
 
-*Amazing with people*: I thrive in diverse team environments where I can build strong relationships and drive projects forward with Agile methodologies.
+* 🌍  I'm based in London
+* 🖥️  See my portfolio at [𝘽𝙤𝙖𝙩 𝙏𝙧𝙞𝙥 - an energiser app](http://artology.netlify.app/)
+* ✉️  You can contact me at [carrieshen.uk@gmail.com](mailto:carrieshen.uk@gmail.com)
+* 🧠  I'm learning database and architecture
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm secretly a writer, ask me for a short story!
 
-*Agile problem solver*: From careful planning and breaking down complex problems to prioritizing tasks, managing teams, and meeting deadlines, with a focus on time management and attention to detail, I'm dedicated to delivering successful solutions that exceed expectations.
-
-*Always up-to-date*: I stay at the forefront of the industry's latest trends and emerging technologies, ensuring that my work is cutting-edge and held to the highest standard.
-
-*Analytical and Adaptable*: Driven by the potential of art and technology coming together, I'm always ready to embrace new challenges and adapt to the latest advancements in the industry, leveraging my analytical skills to design innovative solutions that push boundaries and create meaningful impact.
-
----
-
-✨ LITTLE ACHIEVEMENT ✨
-
-🌊🌊🌊🛥 
-𝘽𝙤𝙖𝙩 𝙏𝙧𝙞𝙥 - an energiser app built to combat mental and creativity burnout in coding bootcamps
-👉 https://artology.netlify.app/
+### Skills
 
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-<!--
-**carrieshenkayee/carrieshenkayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.github.com/carrieshenkayee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carrie-shen-software-developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/carrieshenkayee"><img src="https://github-readme-stats.vercel.app/api?username=carrieshenkayee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="carrieshenkayee's GitHub stats" /></a>
+
+<a href="http://www.github.com/carrieshenkayee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carrieshenkayee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/carrieshenkayee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=carrieshenkayee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/carrieshenkayee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrieshenkayee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/carrieshenkayee/ bc14_w7_project-frontend-artology-room-4" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrieshenkayee&repo= bc14_w7_project-frontend-artology-room-4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
